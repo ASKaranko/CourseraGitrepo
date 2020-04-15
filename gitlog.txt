@@ -1,0 +1,23 @@
+commit 881dd2073ee000bda1f2862a6a60d339c74abc16
+Author: Andrei Karanko <andr.karanko@gmail.com>
+Date:   Wed Apr 15 18:11:21 2020 +0300
+
+    Added .gitignore
+
+commit 323c7edb07ee6cbb1f78446d32d521bd3f29571b
+Author: Andrei Karanko <andr.karanko@gmail.com>
+Date:   Wed Apr 15 17:56:23 2020 +0300
+
+    file3.txt  file4.txt added
+
+commit 67a40accf24ef290c06341e8747b86410bfd3ea6
+Author: Andrei Karanko <andr.karanko@gmail.com>
+Date:   Wed Apr 15 17:52:16 2020 +0300
+
+    added file1.txt file2.txt and modified readme.txt
+
+commit 8f2239ebb5a0bd621ae10fede6d6a1dc1bced62f
+Author: Andrei Karanko <andr.karanko@gmail.com>
+Date:   Wed Apr 15 17:32:47 2020 +0300
+
+    Added readme.txt
